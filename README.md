@@ -25,6 +25,7 @@ Housing stress = a household spending more than 30% of its income on mortgage re
 ## Files
 
 - `Housing_Affordability_Australia.pbix` — the full Power BI report (open with Power BI Desktop, free).
+- link to my Power BI report - https://app.powerbi.com/groups/me/reports/3e60e705-09b3-44e5-9ffb-ad258e1c0bd0/6477e86142ca9dd80e02?experience=power-bi
 
 ## Notes on the data
 
